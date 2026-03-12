@@ -9,7 +9,6 @@ venv/
 .ipynb_checkpoints/
 data/
 results/
-figures/
 *.log
 .DS_Store
 Thumbs.db
